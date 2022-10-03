@@ -1,0 +1,38 @@
+{
+    "EEG_DATASET": {
+        "Study": "Cambridge Anesthesia",
+        "Subjects": [
+            "S1",
+            "S2",
+            "S3"
+        ],
+        "States": [
+            "Wakefulness",
+            "Sedation"
+        ],
+        "Export": [
+            "Drug Levels"
+        ],
+        "Other": {
+            "Drug": "Propofol"
+        }
+    },
+    "EEG_PARAMETERS": {
+        "Montage": "GSN-HydroCel-129",
+        "Channels": "10-20",
+        "Crop Time": null,
+        "Filtering": [
+            0.5,
+            40
+        ],
+        "Notch Freq": null,
+        "Sfreq": 100,
+        "Epoch Size": 1,
+        "Epoch Overlap": 0,
+        "Epoch Baseline Correction": false,
+        "Epoch Peak-to-Peak Threshold": 0.0008,
+        "Interpolate Bad Channels": true,
+        "Epoch Rejection": true,
+        "Reference": "Average"
+    }
+}

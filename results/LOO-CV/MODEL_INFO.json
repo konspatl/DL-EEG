@@ -1,0 +1,12 @@
+{
+    "Input shape": [
+        20,
+        100,
+        1
+    ],
+    "Sfreq": 100,
+    "Output shape": [
+        2
+    ],
+    "Targets": "1-hot"
+}

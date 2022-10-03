@@ -1,0 +1,15 @@
+{
+    "Model": "EEGNet_v2",
+    "EEG Normalization": "epoch_stand_robust",
+    "Sample Weights": true,
+    "Target Weights": true,
+    "Shuffle Samples": true,
+    "Optimizer": "Adadelta",
+    "Learning Rate": 1,
+    "Loss": "categorical_crossentropy",
+    "Metrics": [
+        "accuracy"
+    ],
+    "Batch Size": 64,
+    "Epochs": 10
+}

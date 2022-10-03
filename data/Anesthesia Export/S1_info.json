@@ -1,0 +1,34 @@
+{
+    "States": [
+        "Wakefulness",
+        "Sedation"
+    ],
+    "Channels": [
+        "F7",
+        "T3",
+        "T5",
+        "Fp1",
+        "F3",
+        "C3",
+        "P3",
+        "O1",
+        "Fz",
+        "Cz",
+        "Pz",
+        "Oz",
+        "Fp2",
+        "F4",
+        "C4",
+        "P4",
+        "O2",
+        "F8",
+        "T4",
+        "T6"
+    ],
+    "Export": {
+        "Drug Levels": [
+            0,
+            947
+        ]
+    }
+}

@@ -1,0 +1,52 @@
+{
+    "Subjects": [
+        "S1",
+        "S2",
+		"S3"
+    ],
+	"States": [
+        [
+            "Wakefulness",
+            "Sedation"
+        ],
+        [
+            "Wakefulness",
+            "Sedation"
+        ],
+		[
+            "Wakefulness",
+            "Sedation"
+        ]
+    ],
+    "EEG Files": [
+        [
+            "08-2010-anest 20100301 095.004.set",
+            "08-2010-anest 20100301 095.015.set"
+        ],
+        [
+            "09-2010-anest 20100301 135.003.set",
+            "09-2010-anest 20100301 135.021.set"
+        ],
+		[
+            "20-2010-anest 20100414 131.004.set",
+            "20-2010-anest 20100414 131.022.set"
+        ]
+    ], 
+    "Export": {
+        "Drug Levels": [
+            [
+                0,
+                947
+            ],
+            [
+                0,
+                806
+            ],
+			[
+                0,
+                1018
+            ]
+        ]
+    },
+    "Montage File": "Channel Information/GSN-HydroCel-129.sfp"
+}
