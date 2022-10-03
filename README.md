@@ -27,3 +27,34 @@ Sample scripts requirements:
 - h5py
 - scikit-learn
 
+# Deep Learning-based EEG Models
+
+- cNN_3D [[1]](https://ieeexplore.ieee.org/abstract/document/9175324)
+- cNN_topomap [[1]](https://ieeexplore.ieee.org/abstract/document/9175324)
+- BrainDecode_Deep4 [[2]](https://arxiv.org/abs/1703.05051)
+- BrainDecode_Shallow [[2]](https://arxiv.org/abs/1703.05051)
+- EEGNet_v1 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
+- EEGNet_v2 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
+
+<img src="https://user-images.githubusercontent.com/17619349/193602946-85c0ee37-ecd5-4195-a940-3587ddc6cdc7.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/17619349/193602960-9cd0a769-8796-4a76-bd4b-ba6cf163f24f.png" width=70% height=70%>
+
+# Usage
+
+To use this library, place the contents of the DL-EEG folder in your PYTHONPATH environment variable
+
+# Citation
+
+If you use this library for your research, please cite the following work:
+
+```
+@INPROCEEDINGS{9175324,
+  author={Patlatzoglou, Konstantinos and Chennu, Srivas and Gosseries, Olivia and Bonhomme, Vincent and Wolff, Audrey and Laureys, Steven},
+  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
+  title={Generalized Prediction of Unconsciousness during Propofol Anesthesia using 3D Convolutional Neural Networks}, 
+  year={2020},
+  volume={},
+  number={},
+  pages={134-137},
+  doi={10.1109/EMBC44109.2020.9175324}}
+```
