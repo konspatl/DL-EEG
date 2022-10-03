@@ -29,6 +29,8 @@ Sample scripts requirements:
 
 # Deep Learning-based EEG Models
 
+The following deep learning models are implemented in the library (utils.NN):
+
 - cNN_3D [[1]](https://ieeexplore.ieee.org/abstract/document/9175324)
 - cNN_topomap [[1]](https://ieeexplore.ieee.org/abstract/document/9175324)
 - BrainDecode_Deep4 [[2]](https://arxiv.org/abs/1703.05051)
@@ -36,8 +38,8 @@ Sample scripts requirements:
 - EEGNet_v1 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
 - EEGNet_v2 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
 
-<img src="https://user-images.githubusercontent.com/17619349/193602946-85c0ee37-ecd5-4195-a940-3587ddc6cdc7.png" width=80% height=80%>
-<img src="https://user-images.githubusercontent.com/17619349/193602960-9cd0a769-8796-4a76-bd4b-ba6cf163f24f.png" width=70% height=70%>
+<img src="https://user-images.githubusercontent.com/17619349/193630868-b933186d-ce61-4641-bae1-990c945480d2.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/17619349/193602960-9cd0a769-8796-4a76-bd4b-ba6cf163f24f.png" width=60% height=60%>
 
 # Usage
 
