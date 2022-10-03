@@ -6,7 +6,7 @@ This library is intended for EEG researchers and includes dataset processing too
 
 The aim of this project is to provide:
 
-- a standard framework for EEG preprocessing and dataset extraction, suitable for machine learning analysis
+- a standard framework for EEG preprocessing and dataset extraction, suitable for machine learning analyses
 - the creation and training of deep learning models using EEG-driven network designs and methodologies
 - the evaluation and testing of deep learning models over a variety of EEG systems and learning tasks
 - a consistent EEG-processing pipeline, by exploiting the spatio-temporal structure of the EEG 
