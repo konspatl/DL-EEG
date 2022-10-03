@@ -1,5 +1,7 @@
 # Author: Konstantinos Patlatzoglou <konspatl@gmail.com>
 
+# A script on Testing deep learning models for state-based EEG decoding.
+
 import os
 from pathlib import Path
 
@@ -9,9 +11,6 @@ import json
 from utils import utils
 from utils import EEG
 from utils import NN
-
-
-#os.environ["CUDA_VISIBLE_DEVICES"] = "-1" # Uncomment for CPU use
 
 
 # -----------------------------------MODEL TESTING PARAMETERS----------------------------------

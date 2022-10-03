@@ -1,5 +1,7 @@
 # Author: Konstantinos Patlatzoglou <konspatl@gmail.com>
 
+# A script on exporting figures based on a results directory.
+
 import os
 from pathlib import Path
 

@@ -1,5 +1,7 @@
 # Author: Konstantinos Patlatzoglou <konspatl@gmail.com>
 
+# A script on EEG Dataset pre-processing for machine learning-based analysis using the MNE library.
+
 import numpy as np
 import json
 from pathlib import Path

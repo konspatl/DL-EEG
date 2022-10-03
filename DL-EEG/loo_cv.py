@@ -1,5 +1,8 @@
 # Author: Konstantinos Patlatzoglou <konspatl@gmail.com>
 
+# A script on Training and Testing deep learning models for state-based EEG decoding,
+# using a leave-one-participant-out cross-validation approach.
+
 import os, shutil
 from pathlib import Path
 
@@ -12,9 +15,6 @@ from tensorflow.keras import backend as K
 from utils import utils
 from utils import EEG
 from utils import NN
-
-
-#os.environ["CUDA_VISIBLE_DEVICES"] = "-1" # Uncomment for CPU use
 
 
 # --------------------------------------LOO-CV PARAMETERS--------------------------------------#

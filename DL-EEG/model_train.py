@@ -1,5 +1,7 @@
 # Author: Konstantinos Patlatzoglou <konspatl@gmail.com>
 
+# A script on Training deep learning models for state-based EEG decoding.
+
 import os
 from pathlib import Path
 
@@ -10,9 +12,6 @@ from sklearn.utils import shuffle
 from utils import utils
 from utils import EEG
 from utils import NN
-
-
-#os.environ["CUDA_VISIBLE_DEVICES"] = "-1" # Uncomment for CPU use
 
 
 # ---------------------------------MODEL TRAINING PARAMETERS-----------------------------------
