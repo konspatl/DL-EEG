@@ -18,10 +18,10 @@ This library is intended for EEG researchers and includes dataset processing too
 * mne == 0.19
 * tensorflow >= 2.6
 - numpy
-- pathlib
+- scipy
 - natsort
+- matplotlib
 - pandas
-- h5py
 - scikit-learn
 
 
