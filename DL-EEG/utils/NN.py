@@ -13,9 +13,6 @@ from tensorflow.keras import backend as K
 from tensorflow.keras.callbacks import ModelCheckpoint
 from tensorflow.keras.models import load_model
 
-
-
-
 def create_model(model_name, input_shape, sfreq, output_shape, classification=True):
     """
     Creates and returns a model based on the given parameter specifications

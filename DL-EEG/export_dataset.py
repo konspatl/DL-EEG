@@ -13,7 +13,7 @@ from datasetUtils import utils
 
 # ---------------------------------------EXPORT PARAMETERS-----------------------------------
 DATASET_NAME = 'Anesthesia Dataset'  # Name of Dataset Directory
-EXPORT_NAME = 'Anesthesia Export' # Name of Export Directory
+EXPORT_NAME = 'Anesthesia Dataset Export' # Name of Export Directory
 
 
 EEG_DATASET = {'Study': 'Cambridge Anesthesia',
