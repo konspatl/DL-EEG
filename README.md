@@ -10,7 +10,7 @@ This library is intended for EEG researchers and includes dataset processing too
 - methods for creation and training of deep learning models that employ EEG-driven network designs and methodologies
 - methods for evaluation and testing of deep learning models over a variety of EEG systems and learning tasks
 - a consistent EEG-processing pipeline, by exploiting the spatio-temporal structure of the EEG 
-- support of multi-study integrationa and cross-subject/cross-study validation schemes, aiming at improved research reproducibility
+- support for multi-study integration and cross-subject/cross-study validation schemes, aiming at improved research reproducibility
 
 # Requirements
 
