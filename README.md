@@ -1,16 +1,16 @@
 # Introduction
 
-A Deep Learning-based EEG Decoding library for State-based Tasks/Analyses, using MNE and Tensorflow/Keras. 
+A Deep Learning-based EEG (DL-EEG) decoding library for state-based tasks/analyses, using MNE and Tensorflow/Keras. 
 
 This library is intended for EEG researchers and includes dataset processing tools, implementations of several cNN models, and scripts for model training, testing and visualization.
 
-The aim of this project is to provide:
+**The aim of this project is to provide:**
 
 - a standard framework for EEG preprocessing and dataset extraction, suitable for machine learning analyses
-- the creation and training of deep learning models using EEG-driven network designs and methodologies
-- the evaluation and testing of deep learning models over a variety of EEG systems and learning tasks
+- methods for creation and training of deep learning models that employ EEG-driven network designs and methodologies
+- methods for evaluation and testing of deep learning models over a variety of EEG systems and learning tasks
 - a consistent EEG-processing pipeline, by exploiting the spatio-temporal structure of the EEG 
-- improved research reproducibility and support for multi-study integration, using cross-subject validation schemes
+- support of multi-study integrationa and cross-subject/cross-study validation schemes, aiming at improved research reproducibility
 
 # Requirements
 
