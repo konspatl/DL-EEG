@@ -18,10 +18,10 @@ This library is intended for EEG researchers and includes dataset processing too
 * mne == 0.19
 * tensorflow >= 2.6
 - numpy
-- pathlib
+- scipy
 - natsort
+- matplotlib
 - pandas
-- h5py
 - scikit-learn
 
 
@@ -36,7 +36,7 @@ The following deep learning models are implemented in the library (utils.NN):
 - EEGNet_v1 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
 - EEGNet_v2 [[3]](https://iopscience.iop.org/article/10.1088/1741-2552/aace8c/meta)
 
-<img src="https://user-images.githubusercontent.com/17619349/193630868-b933186d-ce61-4641-bae1-990c945480d2.png" width=80% height=80%>
+<img src="https://user-images.githubusercontent.com/17619349/194333750-561ac1eb-3467-4dca-af66-e2db185646bc.png" width=80% height=80%>
 <img src="https://user-images.githubusercontent.com/17619349/193602960-9cd0a769-8796-4a76-bd4b-ba6cf163f24f.png" width=60% height=60%>
 
 # Usage
