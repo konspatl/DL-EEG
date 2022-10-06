@@ -14,18 +14,16 @@ This library is intended for EEG researchers and includes dataset processing too
 
 # Requirements
 
-- Python >= 3.6
-- mne == 0.19
-- tensorflow >= 2.6
-
-Sample scripts requirements:
-
+* Python >= 3.6
+* mne == 0.19
+* tensorflow >= 2.6
 - numpy
 - pathlib
 - natsort
 - pandas
 - h5py
 - scikit-learn
+
 
 # Deep Learning-based EEG Models
 
