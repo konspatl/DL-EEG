@@ -1,0 +1,15 @@
+name: dleeg
+channels:
+  - defaults
+dependencies:
+  - python=3.8
+  - jupyter=1.0
+  - numpy=1.23
+  - scipy=1.9
+  - natsort=7.1
+  - matplotlib=3.5
+  - scikit-learn=1.1
+  - pandas=1.4
+  - pip:
+    - mne==0.19
+    - tensorflow==2.7
