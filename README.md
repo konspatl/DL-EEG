@@ -48,13 +48,13 @@ To use this library, place the contents of the DL-EEG folder in your PYTHONPATH 
 If you use this library for your research, please cite the following work:
 
 ```
-@INPROCEEDINGS{9175324,
-  author={Patlatzoglou, Konstantinos and Chennu, Srivas and Gosseries, Olivia and Bonhomme, Vincent and Wolff, Audrey and Laureys, Steven},
-  booktitle={2020 42nd Annual International Conference of the IEEE Engineering in Medicine & Biology Society (EMBC)}, 
-  title={Generalized Prediction of Unconsciousness during Propofol Anesthesia using 3D Convolutional Neural Networks}, 
-  year={2020},
-  volume={},
-  number={},
-  pages={134-137},
-  doi={10.1109/EMBC44109.2020.9175324}}
+@phdthesis{kar97272,
+           month = {September},
+           title = {Deep Learning for Electrophysiological Investigation and Estimation of Anesthetic-Induced Unconsciousness},
+          school = {University of Kent,},
+          author = {Konstantinos Patlatzoglou},
+            year = {2022},
+        keywords = {deep learning EEG anesthesia consciousness},
+             url = {https://kar.kent.ac.uk/97272/}
+}
 ```
